@@ -1,1 +1,0 @@
-cmd_/opt/FriendlyARM/mini2440/my_new_fs/new_drv/13th_ramblock/ramblock.ko := arm-linux-ld -EL  -r -o /opt/FriendlyARM/mini2440/my_new_fs/new_drv/13th_ramblock/ramblock.ko /opt/FriendlyARM/mini2440/my_new_fs/new_drv/13th_ramblock/ramblock.o /opt/FriendlyARM/mini2440/my_new_fs/new_drv/13th_ramblock/ramblock.mod.o
