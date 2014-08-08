@@ -1,0 +1,1 @@
+cmd_/opt/FriendlyARM/mini2440/my_new_fs/new_drv/14_nand/s3c_nand.ko := arm-linux-ld -EL  -r -o /opt/FriendlyARM/mini2440/my_new_fs/new_drv/14_nand/s3c_nand.ko /opt/FriendlyARM/mini2440/my_new_fs/new_drv/14_nand/s3c_nand.o /opt/FriendlyARM/mini2440/my_new_fs/new_drv/14_nand/s3c_nand.mod.o
